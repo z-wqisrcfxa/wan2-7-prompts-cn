@@ -97,6 +97,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan2-7-api-cn](https://github.com/z-wqisrcfxa/wan2-7-api-cn)
+- **Same model, other languages** — 9 more language builds: Deutsch `wan2-7-api-de` · Español [wan2-7-api-es](https://github.com/f42ig4byyp74l/wan2-7-api-es) · Français [wan2-7-api-fr](https://github.com/sabyr006rt82d/wan2-7-api-fr) · Relay/gateway [wan2-7-api-gateway](https://github.com/irermc20d41/wan2-7-api-gateway) · Bahasa [wan2-7-api-id](https://github.com/waozcam/wan2-7-api-id) · 日本語 [wan2-7-api-ja](https://github.com/vvdndrxs4aa/wan2-7-api-ja) · 한국어 [wan2-7-api-ko](https://github.com/lmgtzsi9om2/wan2-7-api-ko) · Português [wan2-7-api-pt](https://github.com/uc814m5o/wan2-7-api-pt) · Русский [wan2-7-api-ru](https://github.com/d335whdzs8i43/wan2-7-api-ru)
+- **More models in this language** — [midjourney-api-cn](https://github.com/apimartycl6k972t/midjourney-api-cn) · [gemini-2-5-flash-image-preview-api-cn](https://github.com/hm-5j/gemini-2-5-flash-image-preview-api-cn) · [nano-banana-api-cn](https://github.com/mpflv/nano-banana-api-cn) · [gemini-3-1-flash-image-preview-api-cn](https://github.com/utp00/gemini-3-1-flash-image-preview-api-cn) · [nano-banana-2-api-cn](https://github.com/i3hxnu6/nano-banana-2-api-cn) · [gemini-3-pro-image-preview-api-cn](https://github.com/vd0tv42d/gemini-3-pro-image-preview-api-cn)
+- **Topic hubs** — every build of this model, all languages: [wan2-7](https://github.com/topics/wan2-7) · [wan2-7-api](https://github.com/topics/wan2-7-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
